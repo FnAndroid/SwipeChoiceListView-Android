@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomView</string>
+    <string name="title_activity_swipe_choice_list">SwipeChoiceListActivity</string>
+</resources>
